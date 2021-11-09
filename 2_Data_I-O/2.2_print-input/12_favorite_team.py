@@ -1,2 +1,2 @@
-team=input()
+team = input()
 print(team, "- чемпион!")
