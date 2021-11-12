@@ -1,4 +1,5 @@
 age = int(input())
+
 if age <= 13:
     print("детство")
 if 14 <= age <= 24:
