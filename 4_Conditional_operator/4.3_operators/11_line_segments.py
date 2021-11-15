@@ -1,4 +1,5 @@
 a1, b1, a2, b2 = int(input()), int(input()), int(input()), int(input())
+
 if b1 < a2 or b2 < a1:
     print('пустое множество')
 else:
