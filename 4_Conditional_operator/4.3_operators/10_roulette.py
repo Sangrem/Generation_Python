@@ -1,4 +1,5 @@
 a = int(input())
+
 if a == 0:
     print("зеленый")
 elif a < 0 or a > 36:
