@@ -1,4 +1,5 @@
 a, b = input(), input()
+
 if a == b and (a == 'красный' or a == 'желтый' or a == 'синий'):
     print(a)
 elif (a == 'красный' and b == 'синий') or (b == 'красный' and a == 'синий'):
