@@ -1,4 +1,5 @@
 n = int(input())
+
 if n <= 59:
     print("Легкий вес")
 elif 60 <= n <= 63:
