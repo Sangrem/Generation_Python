@@ -1,4 +1,5 @@
 a, b, s = int(input()), int(input()), input()
+
 if s == "*":
     print(a * b)
 elif s == "+":
