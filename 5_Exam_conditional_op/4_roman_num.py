@@ -1,4 +1,5 @@
 n = int(input())
+
 if(n >= 1 and n <= 10):
     if n == 1:
         print("I")
