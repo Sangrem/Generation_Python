@@ -1,4 +1,5 @@
 m, n = int(input()), int(input())
+
 if m == n:
     print(m)
 elif m < n:
