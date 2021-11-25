@@ -1,5 +1,6 @@
 c = int(input())
 m1, m2 = 0, 0
+
 for i in range(c):
     if n > m1:
         m2 = m1
