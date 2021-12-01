@@ -10,4 +10,5 @@ for i in range(a, b + 1):
         if maximum >= total_maximum:
             total_maximum = maximum
             digit = j
+
 print(digit, total_maximum)
