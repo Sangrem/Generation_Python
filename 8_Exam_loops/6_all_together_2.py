@@ -6,6 +6,7 @@ sumBig5 = 0
 multyBig7 = 1
 count05 = 0
 last = n % 10
+
 while n > 0:
     x = n % 10
     if x == 3:
@@ -21,6 +22,7 @@ while n > 0:
     if x == 0 or x == 5:
         count05 += 1
     n //= 10
+
 print(count3)
 print(countLast)
 print(countChet)
