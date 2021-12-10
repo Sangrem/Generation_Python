@@ -1,4 +1,5 @@
 s = input()
+
 print(len(s))
 print(s*3)
 print(s[0])
