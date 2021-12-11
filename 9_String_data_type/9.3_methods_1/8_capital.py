@@ -1,4 +1,5 @@
 s = input()
+
 if s == s.title():
     print("YES")
 else:
